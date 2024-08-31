@@ -77,6 +77,8 @@ Inside each folder, you'll find code examples and explanations to help you under
     </tr>
     <tr>
       <td>&nbsp;&nbsp;<a>Model Evaluation</a></td>
+      <td>Notebook on model evaluation techniques.</td>
     </tr>
+     
   </tbody>
 </table>
