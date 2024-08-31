@@ -16,7 +16,7 @@ Inside each folder, you'll find code examples and explanations to help you under
       <td>Basic Python libraries for machine learning.</td>
     </tr>
     <tr>
-      <td>&nbsp;&nbsp;<code>numpy_basics.ipynb</code></td>
+      <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/codeasarjun/_easy_machine_learning/blob/main/01-python-for-ml/numpy_basics.ipynb">numpy_basics.ipynb</a></td>
       <td>Introduction to Numpy basics.</td>
     </tr>
     <tr>
