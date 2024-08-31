@@ -12,7 +12,7 @@ Inside each folder, you'll find code examples and explanations to help you under
   </thead>
   <tbody>
     <tr>
-      <td><code>01-python-for-ml</code></td>
+      <td>01-python-for-ml</td>
       <td>Basic Python libraries for machine learning.</td>
     </tr>
     <tr>
